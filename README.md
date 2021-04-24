@@ -19,5 +19,5 @@ mustafasamedyeyin@gmail.com
   </div>
   
   ## I love to try difrent linux distors.
-  ## Can not give up windows 10 because Visual Studio.
+  ## I can not give up windows 10 because of Visual Studio.
 </div>

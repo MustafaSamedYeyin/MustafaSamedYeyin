@@ -19,5 +19,6 @@ mustafasamedyeyin@gmail.com
   </div>
   
   ## I love to try difrent linux distors.
-  ## Can not give up windows 10 because VisualStudio :heart:
+  ## Can not give up windows 10 because Visual Studio.
+  ## I am exciting about Visual Studio 2022 :heart:
 </div>

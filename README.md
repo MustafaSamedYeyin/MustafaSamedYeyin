@@ -9,6 +9,6 @@ mustafasamedyeyin@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaSamedYeyin&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <div style="max-height= 25px;">
-  <img src="https://raw.githubusercontent.com/MustafaSamedYeyin/MustafaSamedYeyin/1e91bc51489ff05d4c74424efeb68fe3a4f73033/csharp-original.svg" width="350" title="hover text">
+  <img src="https://raw.githubusercontent.com/MustafaSamedYeyin/MustafaSamedYeyin/1e91bc51489ff05d4c74424efeb68fe3a4f73033/csharp-original.svg" width="25" title="hover text">
   </div>
 </div>

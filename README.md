@@ -9,5 +9,5 @@ mustafasamedyeyin@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaSamedYeyin&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![alt text](https://github.com/[MustafaSamedYeyin]/[MustafaSamedYeyin]/blob/[main]/csharp-original.svg?raw=true)
+![alt text](https://raw.githubusercontent.com/MustafaSamedYeyin/MustafaSamedYeyin/1e91bc51489ff05d4c74424efeb68fe3a4f73033/csharp-original.svg)
 </div>

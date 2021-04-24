@@ -22,4 +22,5 @@ mustafasamedyeyin@gmail.com
   
   ## I love to try different  linux distors.
   ## I can not give up windows 10 because of Visual Studio.
+  # OMG Vİsual Studio 2022 coming :heart: .
 </div>

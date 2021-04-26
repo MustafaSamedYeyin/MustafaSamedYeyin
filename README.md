@@ -20,5 +20,5 @@
   </div>
   
   ## I love to try different  linux distors.
-  # OMG Visual Studio 2022 coming :heart: .
+  
 </div>

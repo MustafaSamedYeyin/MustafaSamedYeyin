@@ -12,7 +12,4 @@
   <img src="https://raw.githubusercontent.com/MustafaSamedYeyin/MustafaSamedYeyin/a1f83044e260e725fbc7972552b970de384e006f/sass-original.svg" width="25" title="sass">
   <img src="https://raw.githubusercontent.com/MustafaSamedYeyin/MustafaSamedYeyin/a1f83044e260e725fbc7972552b970de384e006f/ubuntu-plain.svg" width="25" title="ubuntu">
   </div>
-  
-  ## I love to try different  linux distors.
-  
 </div>

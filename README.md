@@ -12,6 +12,10 @@
   <img src="https://raw.githubusercontent.com/MustafaSamedYeyin/MustafaSamedYeyin/a1f83044e260e725fbc7972552b970de384e006f/sass-original.svg" width="25" title="sass">
   <img src="https://raw.githubusercontent.com/MustafaSamedYeyin/MustafaSamedYeyin/a1f83044e260e725fbc7972552b970de384e006f/ubuntu-plain.svg" width="25" title="ubuntu">
   <img src="https://raw.githubusercontent.com/MustafaSamedYeyin/MustafaSamedYeyin/464f1a2586078d8c9ceb69f53ae27f7ed540b0e8/csharp-original.svg" width="25" title="c-sharp">
+  <img src="https://raw.githubusercontent.com/MustafaSamedYeyin/MustafaSamedYeyin/b20e028562f69d6dbc12f4781c424022eb71be24/visualstudio-plain.svg" width="25" title="visual studio">
+  <img src="https://raw.githubusercontent.com/MustafaSamedYeyin/MustafaSamedYeyin/b20e028562f69d6dbc12f4781c424022eb71be24/dotnetcore-original.svg" width="25" title="dotnet">
  
+  
+  
   </div>
 </div>

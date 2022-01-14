@@ -3,10 +3,7 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MustafaSamedYeyin&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaSamedYeyin&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<div style="max-height= 25px;">
   <img src="https://raw.githubusercontent.com/MustafaSamedYeyin/MustafaSamedYeyin/a1f83044e260e725fbc7972552b970de384e006f/css3-original.svg" width="25" title="css3">
   <img src="https://raw.githubusercontent.com/MustafaSamedYeyin/MustafaSamedYeyin/a1f83044e260e725fbc7972552b970de384e006f/html5-original.svg" width="25" title="html5">
   <img src="https://raw.githubusercontent.com/MustafaSamedYeyin/MustafaSamedYeyin/a1f83044e260e725fbc7972552b970de384e006f/sass-original.svg" width="25" title="sass">

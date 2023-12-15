@@ -16,3 +16,6 @@
   
   </div>
 </div>
+
+
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/648434d987dba40771255e1e?variant=dark&roadmaps=aspnet-core%2Cangular%2Csql" alt="roadmap.sh"/></a>

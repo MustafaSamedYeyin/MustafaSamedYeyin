@@ -13,7 +13,7 @@
   <img src="https://raw.githubusercontent.com/MustafaSamedYeyin/MustafaSamedYeyin/b20e028562f69d6dbc12f4781c424022eb71be24/dotnetcore-original.svg" width="25" title="dotnet">
  
   
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/648434d987dba40771255e1e?variant=dark&roadmaps=aspnet-core%2Cangular%2Csql" alt="roadmap.sh"/></a>
+  <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/648434d987dba40771255e1e?variant=dark&roadmaps=aspnet-core%2Cangular%2Csql" alt="roadmap.sh"/></a>
   
   </div>
 </div>

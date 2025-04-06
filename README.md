@@ -9,6 +9,7 @@
   <img src="https://raw.githubusercontent.com/MustafaSamedYeyin/MustafaSamedYeyin/b20e028562f69d6dbc12f4781c424022eb71be24/dotnetcore-original.svg" width="50" title="dotnet">
   <img src="https://raw.githubusercontent.com/MustafaSamedYeyin/MustafaSamedYeyin/5131eab7906f3077dee3e4f4161ac3983a5a8941/elasticsearch.svg" width="50" title="ELK">
   <img src="https://raw.githubusercontent.com/MustafaSamedYeyin/MustafaSamedYeyin/5131eab7906f3077dee3e4f4161ac3983a5a8941/kafka.svg" width="50" title="Kafka">  
+  <img src="https://raw.githubusercontent.com/MustafaSamedYeyin/MustafaSamedYeyin/refs/heads/main/2023_Obsidian_logo.svg.png" width="50" title="Kafka">  
   </div>
 </div>
 

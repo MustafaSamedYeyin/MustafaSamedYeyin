@@ -12,7 +12,7 @@
   <img src="https://raw.githubusercontent.com/MustafaSamedYeyin/MustafaSamedYeyin/refs/heads/main/2023_Obsidian_logo.svg.png" width="50" title="Obsidian">   
   <img src="https://raw.githubusercontent.com/MustafaSamedYeyin/MustafaSamedYeyin/a9b0b7a36a803ab949c1f22810cb65b6228bfbc4/docker.svg" width="50" title="Docker">  
   <img src="https://raw.githubusercontent.com/MustafaSamedYeyin/MustafaSamedYeyin/f42cd1a3b424fff4304d86a0707409bc03c889d4/MsSQL.svg" width="50" title="MsSQL">  
-  <img src="https://raw.githubusercontent.com/MustafaSamedYeyin/MustafaSamedYeyin/f42cd1a3b424fff4304d86a0707409bc03c889d4/MySQL.svg" width="50" title="Docker">  
+  <img src="https://raw.githubusercontent.com/MustafaSamedYeyin/MustafaSamedYeyin/f42cd1a3b424fff4304d86a0707409bc03c889d4/MySQL.svg" width="50" title="MySQL">  
   <img src="https://raw.githubusercontent.com/MustafaSamedYeyin/MustafaSamedYeyin/f42cd1a3b424fff4304d86a0707409bc03c889d4/Postgresql.svg" width="50" title="PostgreSQL">  
   </div>
 </div>

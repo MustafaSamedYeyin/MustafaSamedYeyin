@@ -13,7 +13,7 @@
   <img src="https://raw.githubusercontent.com/MustafaSamedYeyin/MustafaSamedYeyin/a9b0b7a36a803ab949c1f22810cb65b6228bfbc4/docker.svg" width="50" title="Docker">  
   <img src="https://raw.githubusercontent.com/MustafaSamedYeyin/MustafaSamedYeyin/f42cd1a3b424fff4304d86a0707409bc03c889d4/MsSQL.svg" width="50" title="MsSQL">   
   <img src="https://raw.githubusercontent.com/MustafaSamedYeyin/MustafaSamedYeyin/f42cd1a3b424fff4304d86a0707409bc03c889d4/Postgresql.svg" width="50" title="PostgreSQL">  
-  <img src="https://raw.githubusercontent.com/MustafaSamedYeyin/MustafaSamedYeyin/b9423ba8abc8e409571e03f4fcf1ab4585548524/mysql%20.svg" width="50" title="MySQL">  
+  <img src="https://raw.githubusercontent.com/MustafaSamedYeyin/MustafaSamedYeyin/b9423ba8abc8e409571e03f4fcf1ab4585548524/mysql%20.svg" width="100" title="MySQL">  
   </div>
 </div>
 

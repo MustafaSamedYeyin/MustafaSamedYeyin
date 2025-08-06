@@ -14,6 +14,7 @@
   <img src="https://raw.githubusercontent.com/MustafaSamedYeyin/MustafaSamedYeyin/b9423ba8abc8e409571e03f4fcf1ab4585548524/mysql%20.svg" width="114" title="MySQL">  
   <img src="https://raw.githubusercontent.com/MustafaSamedYeyin/MustafaSamedYeyin/f1759e06b1416cfb156dd3a59a4ac40fa5f8ce3f/redis-logo.svg" width="64" title="Redis"> 
   <img src="https://raw.githubusercontent.com/MustafaSamedYeyin/MustafaSamedYeyin/23ab02f68de7ec0ecb18504aa88fb0af87fb0036/angular-icon.svg" width="64" title="Angular">   
+  <img src="https://raw.githubusercontent.com/MustafaSamedYeyin/MustafaSamedYeyin/812f103453d1c728ebc182fad4050823cd76222b/ollama-color.svg" width="64" title="Ollama">   
   </div>
 </div>
 
